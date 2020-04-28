@@ -53,7 +53,8 @@ class EnquiryForm extends React.Component {
                 <Button variant="contained" color="secondary" onClick={() => this.saveCustomer()}>Save info
                 </Button>
                 {this.state.loading && <div className={"form-field"}><CircularProgress color="secondary"/></div>}
-                {this.state.customers.length !== 0 && <DataTable log={this.state.customers} key={this.state.customers[this.state.customers.length-1][0]}/>}
+                {this.state.customers.length !== 0 && <DataTable log={this.state.customers}
+                                                                 key={this.state.customers[this.state.customers.length - 1][0] + this.state.customers.length}/>}
             </div>
         );
     }
@@ -81,7 +82,12 @@ class EnquiryForm extends React.Component {
             let str = await localStorage.getItem('data-log');
             let tempLog = JSON.parse(str);
             let newLog = [custId, this.state.customerName, this.state.number, this.state.gender];
-            tempLog = [...tempLog, newLog];
+            if (tempLog !== null) {
+                tempLog = [...tempLog, newLog]
+            } else {
+                tempLog = [newLog]
+            }
+
             localStorage.setItem('data-log', JSON.stringify(tempLog));
             this.setState({
                 loading: false,
