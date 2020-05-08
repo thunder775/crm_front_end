@@ -26,6 +26,13 @@
   bottom: 20px;
   left: 200px;
 }
+.login-header{
+  margin-top: 20px;
+  height: 100vh;
+}
+.login-paper{
+  height: 350px;
+}
 .form{
   display: flex;
   flex-direction: column;
@@ -40,7 +47,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+
 }
 
 .App-link {

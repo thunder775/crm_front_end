@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="695f99fb-f114-4e76-9e22-eb99d460736b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/login_page.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/data_table.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/data_table.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/enquiry_form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/enquiry_form.js" afterDir="false" />
     </list>
@@ -95,7 +99,55 @@
       <workItem from="1587967359232" duration="2059000" />
       <workItem from="1587972970685" duration="35000" />
       <workItem from="1588043344264" duration="597000" />
-      <workItem from="1588084688277" duration="87000" />
+      <workItem from="1588084688277" duration="482000" />
+      <workItem from="1588085181489" duration="35000" />
+      <workItem from="1588140598196" duration="1681000" />
+      <workItem from="1588142305052" duration="359000" />
+      <workItem from="1588145887003" duration="1652000" />
+      <workItem from="1588147703932" duration="1312000" />
+      <workItem from="1588215964798" duration="46000" />
+      <workItem from="1588218753052" duration="1648000" />
+      <workItem from="1588220617600" duration="1515000" />
+      <workItem from="1588222427249" duration="643000" />
+      <workItem from="1588223289434" duration="25000" />
+      <workItem from="1588223351038" duration="1795000" />
+      <workItem from="1588225169292" duration="1794000" />
+      <workItem from="1588226990435" duration="1470000" />
+      <workItem from="1588229126288" duration="20000" />
+      <workItem from="1588232395903" duration="787000" />
+      <workItem from="1588233967592" duration="1087000" />
+      <workItem from="1588424338294" duration="127000" />
+      <workItem from="1588569790658" duration="1836000" />
+      <workItem from="1588572162938" duration="599000" />
+      <workItem from="1588573509762" duration="333000" />
+      <workItem from="1588580128922" duration="1878000" />
+      <workItem from="1588648028010" duration="606000" />
+      <workItem from="1588648896244" duration="604000" />
+      <workItem from="1588650718340" duration="599000" />
+      <workItem from="1588655387909" duration="610000" />
+      <workItem from="1588656026909" duration="584000" />
+      <workItem from="1588656620533" duration="1796000" />
+      <workItem from="1588658472882" duration="1665000" />
+      <workItem from="1588660296198" duration="382000" />
+      <workItem from="1588664822781" duration="1607000" />
+      <workItem from="1588737926700" duration="697000" />
+      <workItem from="1588738640254" duration="1851000" />
+      <workItem from="1588741308015" duration="1603000" />
+      <workItem from="1588743115381" duration="1298000" />
+      <workItem from="1588745114206" duration="1233000" />
+      <workItem from="1588747911424" duration="622000" />
+      <workItem from="1588748670686" duration="1000" />
+      <workItem from="1588751304399" duration="1561000" />
+      <workItem from="1588756325114" duration="602000" />
+      <workItem from="1588763454198" duration="12000" />
+      <workItem from="1588829385294" duration="19000" />
+      <workItem from="1588829407140" duration="1922000" />
+      <workItem from="1588831350903" duration="1796000" />
+      <workItem from="1588833169744" duration="767000" />
+      <workItem from="1588837623528" duration="1829000" />
+      <workItem from="1588839470892" duration="607000" />
+      <workItem from="1588844443173" duration="18000" />
+      <workItem from="1588907152283" duration="865000" />
     </task>
     <task id="LOCAL-00001" summary="done until removing item from the giver log">
       <created>1587813044477</created>
@@ -104,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587813044477</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="done until removing item from the giver log">
+      <created>1588085003797</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588085003797</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,45 +187,49 @@
     <option name="LAST_COMMIT_MESSAGE" value="done until removing item from the giver log" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1587813043824">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1588085003059">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587813043824" />
-    <state x="626" y="307" key="Github.ShareDialog" timestamp="1587813203294">
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1588085003059" />
+    <state x="626" y="307" width="258" height="210" key="Github.ShareDialog" timestamp="1588907196684">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="626" y="307" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1587813203294" />
-    <state width="1515" height="49" key="GridCell.Tab.0.bottom" timestamp="1587966698934">
+    <state x="626" y="307" width="258" height="210" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1588907196684" />
+    <state width="1515" height="2" key="GridCell.Tab.0.bottom" timestamp="1588666573391">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="49" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587966698934" />
+    <state width="1515" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588666573391" />
     <state width="1134" height="72" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587965494154" />
-    <state width="1515" height="49" key="GridCell.Tab.0.center" timestamp="1587966698933">
+    <state width="1515" height="2" key="GridCell.Tab.0.center" timestamp="1588666573391">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="49" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587966698933" />
+    <state width="1515" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588666573391" />
     <state width="1134" height="72" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587965494154" />
-    <state width="1515" height="49" key="GridCell.Tab.0.left" timestamp="1587966698933">
+    <state width="1515" height="2" key="GridCell.Tab.0.left" timestamp="1588666573391">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="49" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587966698933" />
+    <state width="1515" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588666573391" />
     <state width="1134" height="72" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587965494153" />
-    <state width="1515" height="49" key="GridCell.Tab.0.right" timestamp="1587966698933">
+    <state width="1515" height="2" key="GridCell.Tab.0.right" timestamp="1588666573391">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="49" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587966698933" />
+    <state width="1515" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588666573391" />
     <state width="1134" height="72" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587965494154" />
     <state x="80" y="167" key="SettingsEditor" timestamp="1587962046622">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="80" y="167" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587962046622" />
-    <state x="361" y="134" key="Vcs.Push.Dialog.v2" timestamp="1587813065352">
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2" timestamp="1588085006112">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="134" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587813065352" />
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1588085006112" />
     <state x="-45" y="154" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1587706657903">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-45" y="154" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1587706657903" />
+    <state x="462" y="144" width="611" height="536" key="find.popup" timestamp="1588571022996">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="462" y="144" width="611" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1588571022996" />
   </component>
 </project>
